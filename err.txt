@@ -1,0 +1,8 @@
+112 turnstile -> turns/tile 이 아닌 turn/stile 로 저장됨
+139 riverside -> river/side 가 아닌 rivers/ide 로 저장
+158 hillside -> hill/side 가 아닌 hills/ide로 저장
+179 cornstalk -> corn/stalk가 아닌 corns/talk로 저장
+260 moonstruck -> moon/struck이 아닌 moons/truck으로 저장
+312 outrage ->out/ rage   가 아니라 outr/age 로 저장됨
+341 spoilsport -> spoil/sport 가 아니라 spoils/port로 저장됨
+357 upswing -> up/swing이 아니라 ups/wing으로 저장됨
